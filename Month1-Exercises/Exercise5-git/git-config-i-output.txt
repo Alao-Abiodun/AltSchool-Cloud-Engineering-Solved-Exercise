@@ -1,0 +1,6 @@
+user.email=abiodundev@gmail.com
+user.name=Alao Abiodun
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
